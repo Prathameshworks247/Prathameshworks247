@@ -1,5 +1,5 @@
-#Welcome 
-![Description of GIF]([https://tenor.com/view/aizen-gif-6185889320464059346](https://media1.tenor.com/m/UQESusJVIRwAAAAd/aizen-aizen-form.gif))
+# Welcome
+![aizen](https://github.com/user-attachments/assets/478072fa-f6b9-4620-b50d-9538a77f6d76)
 # 💫 About Me:
 Hi, I’m **Prathamesh** 👋  
 🎯 Aspiring **Data Scientist** with a passion for uncovering insights through data.  
