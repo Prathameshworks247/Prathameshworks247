@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am Prathamesh<br>I am an aspiring Data Scientist<br>I am also fond of Web Development<br>Currently pursuing Btech at IIIT Dharwad<br>My major is Data Science and Artificial Intelligence
+Hi, I’m **Prathamesh** 👋  
+🎯 Aspiring **Data Scientist** with a passion for uncovering insights through data.  
+💻 Enthusiastic about **Web Development** and crafting user-centric applications.  
+🎓 Currently pursuing **B.Tech in Data Science and Artificial Intelligence** at **IIIT Dharwad**.  
+🚀 Always eager to learn, grow, and explore cutting-edge technologies.  
+
 
 
 # 💻 Tech Stack:
