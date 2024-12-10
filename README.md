@@ -1,3 +1,5 @@
+#Welcome 
+![Description of GIF](https://tenor.com/view/aizen-gif-6185889320464059346)
 # 💫 About Me:
 Hi, I’m **Prathamesh** 👋  
 🎯 Aspiring **Data Scientist** with a passion for uncovering insights through data.  
