@@ -1,11 +1,16 @@
 # Welcome to my GitHub profile ❤️
 ![aizen](https://github.com/user-attachments/assets/478072fa-f6b9-4620-b50d-9538a77f6d76)
 # 💫 About Me:
-Hi, I’m **Prathamesh** 👋  
-🎯 Aspiring **Data Scientist** with a passion for uncovering insights through data.  
-💻 Enthusiastic about **Web Development** and crafting user-centric applications.  
-🎓 Currently pursuing **B.Tech in Data Science and Artificial Intelligence** at **IIIT Dharwad**.  
-🚀 Always eager to learn, grow, and explore cutting-edge technologies.  
+⭐ Updated Bio (Based on Your Resume)
+
+Hi, I’m Prathamesh Patil 👋
+🚀 AI & Data Engineering Enthusiast with hands-on experience building production-grade systems using RAG, FastAPI, LangChain, Kafka, and cloud services.
+🧠 Passionate about Applied Machine Learning, AI Automation, and Scalable System Design.
+🎓 Pursuing B.Tech in Data Science & Artificial Intelligence with a Minor in Quantum Computing at IIIT Dharwad (CGPA: 8.13).
+🔬 Currently researching hybrid deep learning + quantum models (CNN + ViT + QNN) for cyclone intensity prediction.
+💼 Previously worked as an AI Engineer Intern at HAL and AI Automation Intern at Kleanify, building intelligent pipelines, RAG systems, and secure full-stack interfaces.
+🏆 Top 300 in Amazon ML Challenge (0.35%) & Winner of CODA Data Analytics Contest.
+💡 Always exploring cutting-edge tech — from AI microservices to safety-focused apps and productivity platforms.
 
 
 
