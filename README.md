@@ -1,16 +1,29 @@
 # Welcome to my GitHub profile ❤️
 ![aizen](https://github.com/user-attachments/assets/478072fa-f6b9-4620-b50d-9538a77f6d76)
 # 💫 About Me:
-⭐ Updated Bio (Based on Your Resume)
+## 👋 Hey, I'm **Prathamesh Patil**
 
-Hi, I’m Prathamesh Patil 👋
-🚀 AI & Data Engineering Enthusiast with hands-on experience building production-grade systems using RAG, FastAPI, LangChain, Kafka, and cloud services.
-🧠 Passionate about Applied Machine Learning, AI Automation, and Scalable System Design.
-🎓 Pursuing B.Tech in Data Science & Artificial Intelligence with a Minor in Quantum Computing at IIIT Dharwad (CGPA: 8.13).
-🔬 Currently researching hybrid deep learning + quantum models (CNN + ViT + QNN) for cyclone intensity prediction.
-💼 Previously worked as an AI Engineer Intern at HAL and AI Automation Intern at Kleanify, building intelligent pipelines, RAG systems, and secure full-stack interfaces.
-🏆 Top 300 in Amazon ML Challenge (0.35%) & Winner of CODA Data Analytics Contest.
-💡 Always exploring cutting-edge tech — from AI microservices to safety-focused apps and productivity platforms.
+🚀 **AI & Data Engineering Enthusiast** with experience building production-grade systems using **RAG**, **FastAPI**, **LangChain**, **Kafka**, and cloud-native architectures.
+
+🧠 Passionate about **Applied Machine Learning**, **AI Automation**, and **Scalable System Design**.
+
+🎓 Pursuing **B.Tech in Data Science & Artificial Intelligence** with a **Minor in Quantum Computing** at **IIIT Dharwad** (CGPA: 8.13).
+
+🔬 Currently researching a **hybrid CNN + ViT + QNN model** for cyclone intensity prediction using satellite imagery.
+
+💼 **Past Experience**  
+- **AI Engineer Intern @ HAL (Hindustan Aeronautics Limited)**  
+  Built an AI-powered Snag Rectification System (RAG + FastAPI + LangChain + FAISS), reducing troubleshooting time by 60%.
+
+- **AI Automation Intern @ Kleanify**  
+  Designed a scalable automated CSV ingestion pipeline (n8n + FastAPI + Supabase) that reduced manual ingestion time by 88%.
+
+🏆 **Achievements**  
+- Top **300** in **Amazon ML Challenge** (Top 0.35% among 84,000+ teams)  
+- **Winner**, CODA (Clash of Data Analysts) – Built an interactive JOSAA dashboard using Shiny for Python
+
+💡 Always exploring cutting-edge tech — from AI microservices to full-stack platforms and quantum-enhanced ML models.
+
 
 
 
