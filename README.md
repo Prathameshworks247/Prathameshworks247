@@ -1,6 +1,5 @@
 # Welcome to my GitHub profile ❤️
 
-![aizen](https://github.com/user-attachments/assets/478072fa-f6b9-4620-b50d-9538a77f6d76)
 
 ---
 
