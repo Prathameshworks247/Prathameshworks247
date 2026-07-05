@@ -2,7 +2,7 @@
 
 🚀 Building intelligent systems across **AI Engineering**, **Backend & Distributed Systems**, and **Computer Vision Research**.
 
-🎓 B.Tech in Data Science & AI @ **IIIT Dharwad** (CGPA: 8.15) | Minor in **Quantum Computing**
+🎓 B.Tech in Data Science & AI @ **IIIT Dharwad** (CGPA: 8.33) | Minor in **Quantum Computing**
 
 ---
 
